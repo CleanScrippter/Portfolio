@@ -8,25 +8,16 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: #333;
 }
 
-.container {
+.container1 {
   position: relative;
   width: 24px;
   height: 24px;
 }
-
 .chevron {
   position: absolute;
   width: 28px;
